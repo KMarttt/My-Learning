@@ -24,5 +24,5 @@ Python
 - Programming Concepts
 - Python Tutorials
 - Solved Programming Problems
-- Harvard CS50
+- Harvard CS50 (Introduction to Python & AI)
 - Wordle

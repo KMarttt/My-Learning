@@ -1,0 +1,14 @@
+# Ignore NodeJS dependencies
+node_modules/
+
+# Ignore JetBrains/IDEA settings
+.idea/
+
+# Ignore NetBeans and Java build outputs
+**/target/
+
+# Ignore Python bytecode
+__pycache__/
+
+# Ignore ExpressJS internal git repo
+JavaScript/NodeJs_ExpressJs/node_modules/

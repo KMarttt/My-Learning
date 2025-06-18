@@ -1,0 +1,3 @@
+students = []
+
+with open("stu")

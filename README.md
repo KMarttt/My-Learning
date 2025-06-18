@@ -25,3 +25,4 @@ Python
 - Python Tutorials
 - Solved Programming Problems
 - Harvard CS50
+- Wordle
